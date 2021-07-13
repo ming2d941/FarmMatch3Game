@@ -1,0 +1,1000 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.2f1 (068178b99f32) revision 426360'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19041.1083; Version 2004; 64bit' Language: 'en' Physical Memory: 8091 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+E:/git test/FarmMatch3Game
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+56360
+Successfully changed project path to: E:/git test/FarmMatch3Game
+E:/git test/FarmMatch3Game
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 65.07 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.2f1 (068178b99f32)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/git test/FarmMatch3Game/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 710 (ID=0x128b)
+    Vendor:   
+    VRAM:     2007 MB
+    Driver:   27.21.14.5671
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56888
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002262 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 58.43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.432 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003450 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 58.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.275 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.29 seconds
+Refreshing native plugins compatible for Editor in 0.57 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1931 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 82.8 MB.
+System memory in use after: 82.9 MB.
+
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 2361.
+Total: 3.459100 ms (FindLiveObjects: 0.436800 ms CreateObjectMapping: 0.291400 ms MarkObjects: 2.492000 ms  DeleteObjects: 0.237800 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/SweetSugar/Textures_png/Boosters/booster_move_items.png
+  artifactKey: Guid(42c88f570081d42b4b5a50939afff8e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Textures_png/Boosters/booster_move_items.png using Guid(42c88f570081d42b4b5a50939afff8e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18e0c9759d15a584c8b4524315059996') in 0.373428 seconds
+  Import took 0.541409 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 950.493009 seconds.
+  path: Assets/SweetSugar/Textures_png/Boosters/booster_destroy.png
+  artifactKey: Guid(49dfa212e626344fcb96ee0ac5353a8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Textures_png/Boosters/booster_destroy.png using Guid(49dfa212e626344fcb96ee0ac5353a8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e3d1512a7fa7ed139bb14d8a68be4c2') in 0.057782 seconds
+  Import took 0.091995 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003077 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.81 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.163 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(65536) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.70 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1915 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.5 MB.
+System memory in use after: 85.6 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2485.
+Total: 2.875400 ms (FindLiveObjects: 0.308500 ms CreateObjectMapping: 0.114200 ms MarkObjects: 2.424600 ms  DeleteObjects: 0.026900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 4372.266447 seconds.
+  path: Assets/SweetSugar/Textures_png/Game gui/booster_button.png
+  artifactKey: Guid(ddc70cb02de6e4acfa7bd1ee9a20cad2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Textures_png/Game gui/booster_button.png using Guid(ddc70cb02de6e4acfa7bd1ee9a20cad2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c5e7c29996deeb4211e8153e9436c6b') in 0.317886 seconds
+  Import took 0.414260 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005279 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.74 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.084 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(65536) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.68 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1915 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.6 MB.
+System memory in use after: 85.7 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2490.
+Total: 2.357300 ms (FindLiveObjects: 0.204100 ms CreateObjectMapping: 0.085400 ms MarkObjects: 2.043600 ms  DeleteObjects: 0.023000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 892.160826 seconds.
+  path: Assets/SweetSugar/Textures_png/Game gui/booster_button.png
+  artifactKey: Guid(ddc70cb02de6e4acfa7bd1ee9a20cad2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Textures_png/Game gui/booster_button.png using Guid(ddc70cb02de6e4acfa7bd1ee9a20cad2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66fc78aaf11e26dedc53f4488db0968f') in 0.121429 seconds
+  Import took 0.158519 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004758 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.474 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(65536) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.88 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1915 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.7 MB.
+System memory in use after: 85.8 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2495.
+Total: 4.178200 ms (FindLiveObjects: 1.052400 ms CreateObjectMapping: 0.208900 ms MarkObjects: 2.865200 ms  DeleteObjects: 0.049100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 2602.248011 seconds.
+  path: Assets/SweetSugar/Scenes/gameStatic.unity
+  artifactKey: Guid(2d0d93538b9f447f5860fee1ef81d59b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Scenes/gameStatic.unity using Guid(2d0d93538b9f447f5860fee1ef81d59b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8dbb61d24f1a71146494455682f2961') in 0.124457 seconds
+  Import took 0.224013 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 167.400390 seconds.
+  path: Assets/SweetSugar/Scenes/game.unity
+  artifactKey: Guid(e1598a256fd12c548bf8bcbe4d821fe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Scenes/game.unity using Guid(e1598a256fd12c548bf8bcbe4d821fe7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2af2f145d6945df1f5d0a6bbb4cdf638') in 0.030332 seconds
+  Import took 0.048448 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003859 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.89 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.249 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(65536) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.61 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1915 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.8 MB.
+System memory in use after: 85.9 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2497.
+Total: 3.356600 ms (FindLiveObjects: 0.444200 ms CreateObjectMapping: 0.264800 ms MarkObjects: 2.591000 ms  DeleteObjects: 0.055100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 46.873664 seconds.
+  path: Assets/SweetSugar/Textures_png/Game gui/booster_button.png
+  artifactKey: Guid(ddc70cb02de6e4acfa7bd1ee9a20cad2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Textures_png/Game gui/booster_button.png using Guid(ddc70cb02de6e4acfa7bd1ee9a20cad2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8661012aaf5e89a0d911f5d33b9922c9') in 0.104570 seconds
+  Import took 0.140419 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 546.609731 seconds.
+  path: Assets/SweetSugar/Textures_png/Character/character_parts/character_info.png
+  artifactKey: Guid(4ca7907116890f74482c480eeea345d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Textures_png/Character/character_parts/character_info.png using Guid(4ca7907116890f74482c480eeea345d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a25a5ec8558dd3956a6d56d5e46adff3') in 0.036606 seconds
+  Import took 0.063380 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/SweetSugar/Textures_png/Character/character_parts/character_info_complete.png
+  artifactKey: Guid(13984e115092d5944973eaaf6c7e2cb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Textures_png/Character/character_parts/character_info_complete.png using Guid(13984e115092d5944973eaaf6c7e2cb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Sprite character_info_complete matches more than one built-in atlases. Default to use the first available atlas.
+
+ -> (artifact id: 'e42bd015ee1b91206929ed6e66f02062') in 0.056799 seconds
+  Import took 0.153979 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 151.283486 seconds.
+  path: Assets/SweetSugar/Resources/Levels/Targets/TargetLevel2.asset
+  artifactKey: Guid(e1980cde10b66422fad70b625d035095) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Resources/Levels/Targets/TargetLevel2.asset using Guid(e1980cde10b66422fad70b625d035095) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '755848ebddce91c1a55de46b4e5610fa') in 0.041763 seconds
+  Import took 0.091358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.093921 seconds.
+  path: Assets/SweetSugar/Resources/Levels/Targets/TargetLevel2.asset
+  artifactKey: Guid(e1980cde10b66422fad70b625d035095) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Resources/Levels/Targets/TargetLevel2.asset using Guid(e1980cde10b66422fad70b625d035095) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '755848ebddce91c1a55de46b4e5610fa') in 0.023721 seconds
+  Import took 0.033027 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.066266 seconds.
+  path: Assets/SweetSugar/Resources/Levels/Targets/TargetLevel1.asset
+  artifactKey: Guid(3a70e1f6e86ae410a875c9c96de6d307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Resources/Levels/Targets/TargetLevel1.asset using Guid(3a70e1f6e86ae410a875c9c96de6d307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a736add57e88e6a547942058c911c5a4') in 0.009595 seconds
+  Import took 0.032337 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/SweetSugar/Resources/Levels/Targets/TargetLevel23.asset
+  artifactKey: Guid(eac08ac86bb5641b68d18118b7e40bfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Resources/Levels/Targets/TargetLevel23.asset using Guid(eac08ac86bb5641b68d18118b7e40bfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa645353c226bd782577e6f68d1a0e14') in 0.010690 seconds
+  Import took 0.024435 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/SweetSugar/Resources/Levels/Targets/TargetLevel25.asset
+  artifactKey: Guid(d761c058511044ab6bc82c4d5e05f3ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Resources/Levels/Targets/TargetLevel25.asset using Guid(d761c058511044ab6bc82c4d5e05f3ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a43d62c7314c835664923192e2bb4d7f') in 0.024594 seconds
+  Import took 0.043110 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/SweetSugar/Resources/Levels/Targets/TargetLevel7.asset
+  artifactKey: Guid(249abf978d08a4dbd83a6f5a6d70607e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Resources/Levels/Targets/TargetLevel7.asset using Guid(249abf978d08a4dbd83a6f5a6d70607e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e8ad185191cf77028443161794411f7') in 0.028225 seconds
+  Import took 0.048724 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/SweetSugar/Resources/Levels/Targets/TargetLevel11.asset
+  artifactKey: Guid(2fe36cacfbc104f258a4f35702b2bee7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Resources/Levels/Targets/TargetLevel11.asset using Guid(2fe36cacfbc104f258a4f35702b2bee7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f6cb0d7f2bb0eb8c11fbe1d731e00eb') in 0.009400 seconds
+  Import took 0.020315 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/SweetSugar/Resources/Levels/Targets/TargetLevel12.asset
+  artifactKey: Guid(4a1e67656cf1a452584ce2359478c4e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Resources/Levels/Targets/TargetLevel12.asset using Guid(4a1e67656cf1a452584ce2359478c4e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e0f66390fdd056def06583e3fc3e01c') in 0.010052 seconds
+  Import took 0.024400 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000115 seconds.
+  path: Assets/SweetSugar/Resources/Levels/Targets/TargetLevel19.asset
+  artifactKey: Guid(b0481b3279dc34a88a8653b65682e276) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Resources/Levels/Targets/TargetLevel19.asset using Guid(b0481b3279dc34a88a8653b65682e276) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c4a65ca757e858ed4efea9de3df625f') in 0.008615 seconds
+  Import took 0.032401 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/SweetSugar/Resources/Levels/Targets/TargetLevel18.asset
+  artifactKey: Guid(0790c62fe9036435198e5906613e8f85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Resources/Levels/Targets/TargetLevel18.asset using Guid(0790c62fe9036435198e5906613e8f85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4d696e1104103b21c74365c314a6947') in 0.008336 seconds
+  Import took 0.012981 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/SweetSugar/Resources/Levels/Targets/TargetLevel22.asset
+  artifactKey: Guid(7f4d36b0a1a5941dc8828b62adb48723) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Resources/Levels/Targets/TargetLevel22.asset using Guid(7f4d36b0a1a5941dc8828b62adb48723) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83195455c67143f20f60aaf7671a221f') in 0.007764 seconds
+  Import took 0.013334 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/SweetSugar/Resources/Levels/Targets/TargetLevel9.asset
+  artifactKey: Guid(e3cb800ba5c2f4f8ab3bc0263517e0ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Resources/Levels/Targets/TargetLevel9.asset using Guid(e3cb800ba5c2f4f8ab3bc0263517e0ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '128cf941403783662d07798267fccb22') in 0.009281 seconds
+  Import took 0.023990 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000729 seconds.
+  path: Assets/SweetSugar/Resources/Levels/Targets/TargetLevel15.asset
+  artifactKey: Guid(1557fe4b57b204364821607333166ece) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Resources/Levels/Targets/TargetLevel15.asset using Guid(1557fe4b57b204364821607333166ece) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3994f2cc01ea55b496a7936696bef294') in 0.008301 seconds
+  Import took 0.016129 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/SweetSugar/Resources/Levels/Targets/TargetLevel5.asset
+  artifactKey: Guid(3e1c94779f5244eca93055563f39863e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Resources/Levels/Targets/TargetLevel5.asset using Guid(3e1c94779f5244eca93055563f39863e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae47a02ca06ebd6bc43956def2e80c39') in 0.007617 seconds
+  Import took 0.013241 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000111 seconds.
+  path: Assets/SweetSugar/Resources/Levels/Targets/TargetLevel14.asset
+  artifactKey: Guid(df455b06579ef47e7933a5f34033f490) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Resources/Levels/Targets/TargetLevel14.asset using Guid(df455b06579ef47e7933a5f34033f490) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf89a226728828db54eee8408c5460a7') in 0.007664 seconds
+  Import took 0.023654 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/SweetSugar/Resources/Levels/Targets/TargetLevel20.asset
+  artifactKey: Guid(761c0f344f9fd4146905a3a2b605c473) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Resources/Levels/Targets/TargetLevel20.asset using Guid(761c0f344f9fd4146905a3a2b605c473) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1171f343c24c438017b3445691a7045') in 0.009103 seconds
+  Import took 0.013568 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/SweetSugar/Resources/Levels/Targets/TargetLevel24.asset
+  artifactKey: Guid(770422ad97eb641f7bd11620d279aa2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Resources/Levels/Targets/TargetLevel24.asset using Guid(770422ad97eb641f7bd11620d279aa2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c1d8e0ef381e316148b35fd3e6fe75d') in 0.008504 seconds
+  Import took 0.015354 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/SweetSugar/Resources/Levels/Targets/TargetLevel3.asset
+  artifactKey: Guid(e437abdea67124373af43275ccc178a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Resources/Levels/Targets/TargetLevel3.asset using Guid(e437abdea67124373af43275ccc178a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c5e66685bc2f735209e5637936cf47f') in 0.011052 seconds
+  Import took 0.015880 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/SweetSugar/Resources/Levels/Targets/TargetLevel13.asset
+  artifactKey: Guid(2bd6a1adc295d42d5bb71db5ad62a824) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Resources/Levels/Targets/TargetLevel13.asset using Guid(2bd6a1adc295d42d5bb71db5ad62a824) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ab6956973085bb48a0306d008149874') in 0.007618 seconds
+  Import took 0.012094 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/SweetSugar/Resources/Levels/Targets/TargetLevel6.asset
+  artifactKey: Guid(40c4261bb66da475c9ae6304fbfeaa75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Resources/Levels/Targets/TargetLevel6.asset using Guid(40c4261bb66da475c9ae6304fbfeaa75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20970e681755db878f106d0aa64a8d4e') in 0.008148 seconds
+  Import took 0.021684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/SweetSugar/Resources/Levels/Targets/TargetLevel16.asset
+  artifactKey: Guid(411480a02d5a947c98a84a40046167a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Resources/Levels/Targets/TargetLevel16.asset using Guid(411480a02d5a947c98a84a40046167a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3cd7497ab935c2a929381da9b5584eb') in 0.008600 seconds
+  Import took 0.020284 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/SweetSugar/Resources/Levels/Targets/TargetLevel10.asset
+  artifactKey: Guid(1bdccabeb2a434bd3a74cd100ba28883) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Resources/Levels/Targets/TargetLevel10.asset using Guid(1bdccabeb2a434bd3a74cd100ba28883) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '634d03fccefff34d7b7eb0c7c9c0884c') in 0.008503 seconds
+  Import took 0.025601 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/SweetSugar/Resources/Levels/Targets/TargetLevel8.asset
+  artifactKey: Guid(b85e6f62e91304544a3d9f6cc5e7b74d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Resources/Levels/Targets/TargetLevel8.asset using Guid(b85e6f62e91304544a3d9f6cc5e7b74d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '516c6b78161a53b3fff282777b38fd95') in 0.021446 seconds
+  Import took 0.026016 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/SweetSugar/Resources/Levels/Targets/TargetLevel17.asset
+  artifactKey: Guid(1d610c7b4b6774085b4f9535c5412845) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Resources/Levels/Targets/TargetLevel17.asset using Guid(1d610c7b4b6774085b4f9535c5412845) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a12ae257d13caf084714afc4f57d27c3') in 0.014034 seconds
+  Import took 0.034754 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/SweetSugar/Resources/Levels/Targets/TargetLevel21.asset
+  artifactKey: Guid(85c734c811a2e4e4eb5e877de85c00fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Resources/Levels/Targets/TargetLevel21.asset using Guid(85c734c811a2e4e4eb5e877de85c00fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c56fb925a4a8932c40a2f02748f7a13') in 0.028614 seconds
+  Import took 0.033316 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/SweetSugar/Resources/Levels/Targets/TargetLevel4.asset
+  artifactKey: Guid(0ae8fdcae30c846e48e3d952fba56d71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Resources/Levels/Targets/TargetLevel4.asset using Guid(0ae8fdcae30c846e48e3d952fba56d71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c453e2f8b6e91962cb0c4185e38078e0') in 0.009826 seconds
+  Import took 0.028205 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 612.818083 seconds.
+  path: Assets/SweetSugar/Textures_png/Boosters/booster_5_plus_text.png
+  artifactKey: Guid(5e3705aebc9e643d1885e528e7f0506b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Textures_png/Boosters/booster_5_plus_text.png using Guid(5e3705aebc9e643d1885e528e7f0506b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c21ac8279f0ef56c5a8f99fd3e45e978') in 0.053782 seconds
+  Import took 0.078005 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003011 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.163 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(65536) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.73 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1915 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.1 MB.
+System memory in use after: 86.2 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2502.
+Total: 2.614100 ms (FindLiveObjects: 0.399100 ms CreateObjectMapping: 0.171500 ms MarkObjects: 1.975400 ms  DeleteObjects: 0.052300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 188.659307 seconds.
+  path: Assets/SweetSugar/Textures_png/General Gui/button_01.png
+  artifactKey: Guid(14c2193307e1c4af495e0bb152084a09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Textures_png/General Gui/button_01.png using Guid(14c2193307e1c4af495e0bb152084a09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2694c13bd0bf348be196a0c0d5fcb05') in 0.074703 seconds
+  Import took 0.080723 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 70.193132 seconds.
+  path: Assets/SweetSugar/Textures_png/General Gui/button_03.png
+  artifactKey: Guid(f387a715dd4f7408492c55e384c410f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Textures_png/General Gui/button_03.png using Guid(f387a715dd4f7408492c55e384c410f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ae6ee89fd6e7d878ddd3794ca51ddc0') in 0.046164 seconds
+  Import took 0.076333 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/SweetSugar/Textures_png/General Gui/button_04.png
+  artifactKey: Guid(53cda0f0913dc465f9cd270a8872d3af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Textures_png/General Gui/button_04.png using Guid(53cda0f0913dc465f9cd270a8872d3af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f29fc112aed1cbd29efd10c260332e3e') in 0.054427 seconds
+  Import took 0.077693 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004117 seconds.
+  path: Assets/SweetSugar/Textures_png/General Gui/button_04.png
+  artifactKey: Guid(53cda0f0913dc465f9cd270a8872d3af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Textures_png/General Gui/button_04.png using Guid(53cda0f0913dc465f9cd270a8872d3af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f29fc112aed1cbd29efd10c260332e3e') in 0.009754 seconds
+  Import took 0.014512 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.599024 seconds.
+  path: Assets/SweetSugar/Textures_png/General Gui/main_button.png
+  artifactKey: Guid(aad0eac933abe4e46ac9d898587f66ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Textures_png/General Gui/main_button.png using Guid(aad0eac933abe4e46ac9d898587f66ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6f710bad0461648b366c3a8fb825dda') in 0.044790 seconds
+  Import took 0.049982 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 127.718735 seconds.
+  path: Assets/SweetSugar/Textures_png/General Gui/x_button.png
+  artifactKey: Guid(288193ffaac1640be9239bac3fd7005b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Textures_png/General Gui/x_button.png using Guid(288193ffaac1640be9239bac3fd7005b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2693bb738eab28174e0541db21281cca') in 0.039491 seconds
+  Import took 0.064903 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002958 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.124 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(65536) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.63 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1915 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.2 MB.
+System memory in use after: 86.4 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2507.
+Total: 3.183200 ms (FindLiveObjects: 0.566300 ms CreateObjectMapping: 0.322400 ms MarkObjects: 2.218700 ms  DeleteObjects: 0.074700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 473.152953 seconds.
+  path: Assets/SweetSugar/Textures_png/Popup Text/text-6.png
+  artifactKey: Guid(0b37ede32851e43558df33924d33d68f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Textures_png/Popup Text/text-6.png using Guid(0b37ede32851e43558df33924d33d68f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41a985ffd2ac4fb9cd85ce3849425950') in 0.101026 seconds
+  Import took 0.125665 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/SweetSugar/Textures_png/Popup Text/text_2.png
+  artifactKey: Guid(aef54299ac9ad40bd9ea284b123aa64e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Textures_png/Popup Text/text_2.png using Guid(aef54299ac9ad40bd9ea284b123aa64e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc91981b4f79b2059455290a14d10c20') in 0.015529 seconds
+  Import took 0.020289 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/SweetSugar/Textures_png/Popup Text/text_3.png
+  artifactKey: Guid(109ef9a6702d1413b9c6f383b4d21f88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Textures_png/Popup Text/text_3.png using Guid(109ef9a6702d1413b9c6f383b4d21f88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb0890361406259b1d1bd294710fad75') in 0.017782 seconds
+  Import took 0.058934 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2120.408374 seconds.
+  path: Assets/SweetSugar/Textures_png/Popup Text/text_4.png
+  artifactKey: Guid(9d77de594b8db49c2afa2cb02bb0b102) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Textures_png/Popup Text/text_4.png using Guid(9d77de594b8db49c2afa2cb02bb0b102) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb2c7d0d5b3b08ba9540135208f2ba64') in 0.041210 seconds
+  Import took 0.051041 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 88.053089 seconds.
+  path: Assets/SweetSugar/Textures_png/Popup Text/text-6.png
+  artifactKey: Guid(0b37ede32851e43558df33924d33d68f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Textures_png/Popup Text/text-6.png using Guid(0b37ede32851e43558df33924d33d68f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6eca6d48a043479319c5f75fb82932f') in 0.018693 seconds
+  Import took 0.024689 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003052 seconds.
+  path: Assets/SweetSugar/Textures_png/Popup Text/text-6.png
+  artifactKey: Guid(0b37ede32851e43558df33924d33d68f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Textures_png/Popup Text/text-6.png using Guid(0b37ede32851e43558df33924d33d68f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6eca6d48a043479319c5f75fb82932f') in 0.011120 seconds
+  Import took 0.015624 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/SweetSugar/Textures_png/Popup Text/text_2.png
+  artifactKey: Guid(aef54299ac9ad40bd9ea284b123aa64e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Textures_png/Popup Text/text_2.png using Guid(aef54299ac9ad40bd9ea284b123aa64e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ed2fce7290d500e8eaf0c857265d2d6') in 0.018449 seconds
+  Import took 0.039741 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/SweetSugar/Textures_png/Popup Text/text_5.png
+  artifactKey: Guid(a12d203c1d32a40ad8d09923dbc391ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Textures_png/Popup Text/text_5.png using Guid(a12d203c1d32a40ad8d09923dbc391ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da24d345b9f43eb9703f728bbb737b0f') in 0.014231 seconds
+  Import took 0.033055 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/SweetSugar/Textures_png/Popup Text/text_1.png
+  artifactKey: Guid(a28024fb2ad664bc2acccb9eb926ed08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Textures_png/Popup Text/text_1.png using Guid(a28024fb2ad664bc2acccb9eb926ed08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85927e97c6ff1552b6e92587cd75ecf0') in 0.012396 seconds
+  Import took 0.017114 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/SweetSugar/Textures_png/Popup Text/text_3.png
+  artifactKey: Guid(109ef9a6702d1413b9c6f383b4d21f88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Textures_png/Popup Text/text_3.png using Guid(109ef9a6702d1413b9c6f383b4d21f88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe972c8c197ad089a2f1375d96ee1314') in 0.045343 seconds
+  Import took 0.070906 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.717482 seconds.
+  path: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+  artifactKey: Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts/LiberationSans.ttf using Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b976e23c13c12983ed1fd0389e968236') in 0.636915 seconds
+  Import took 0.664100 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000580 seconds.
+  path: Assets/SweetSugar/Materials/Snow material.mat
+  artifactKey: Guid(464d464d5619168489ad4107c00f7ee9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Materials/Snow material.mat using Guid(464d464d5619168489ad4107c00f7ee9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '890299381a94a22d0928424955e700af') in 0.337941 seconds
+  Import took 0.365047 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/SweetSugar/Fonts/Materials/snow.mat
+  artifactKey: Guid(09c501c0cfd1ad045886689ac7ffce53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Fonts/Materials/snow.mat using Guid(09c501c0cfd1ad045886689ac7ffce53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8742bc994b8a458d1712313ee734bf0') in 0.023014 seconds
+  Import took 0.049703 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000381 seconds.
+  path: Assets/SweetSugar/Materials/Snow_add.mat
+  artifactKey: Guid(deb9f05b7ac8e6148ab0aea56c096d3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Materials/Snow_add.mat using Guid(deb9f05b7ac8e6148ab0aea56c096d3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86ffc005c5b7ba0077ec0a95acecbf83') in 0.106098 seconds
+  Import took 0.168846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000496 seconds.
+  path: Assets/SweetSugar/Scriptable/Rewards/Hand.asset
+  artifactKey: Guid(1010e984f4a1f4c8c933bbd72f6eb533) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Scriptable/Rewards/Hand.asset using Guid(1010e984f4a1f4c8c933bbd72f6eb533) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5f4c1a5ae801fd88e0d091247c16b70') in 0.025146 seconds
+  Import took 0.048794 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/SweetSugar/Materials/H_line.mat
+  artifactKey: Guid(faf0077f90ccd1b4c9c257883ccb13fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Materials/H_line.mat using Guid(faf0077f90ccd1b4c9c257883ccb13fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62105e740ed2c97414df3c57602788e0') in 0.113106 seconds
+  Import took 0.124162 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/SweetSugar/Resources/Prefabs/FriendAvatar.prefab
+  artifactKey: Guid(bd874c0e6382e4dd498f05aef0f53de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Resources/Prefabs/FriendAvatar.prefab using Guid(bd874c0e6382e4dd498f05aef0f53de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Sprite white_circle matches more than one built-in atlases. Default to use the first available atlas.
+
+ -> (artifact id: 'd51422b2d9b0a6393368f8e692466129') in 0.162380 seconds
+  Import took 0.181439 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/SweetSugar/Resources/Prefabs/Effects/Snow.prefab
+  artifactKey: Guid(c17c528c0a714fd4fa4d113077a0d351) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Resources/Prefabs/Effects/Snow.prefab using Guid(c17c528c0a714fd4fa4d113077a0d351) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '700e3277e03363b5fbcdeaa3304128b1') in 0.033288 seconds
+  Import took 0.057840 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/SweetSugar/Audio/wav/Get_star_ingredient.wav
+  artifactKey: Guid(4111cae201742ab42a8f8c7232b7f2b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Audio/wav/Get_star_ingredient.wav using Guid(4111cae201742ab42a8f8c7232b7f2b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af51955a58a138cdb6095b1406ca33f1') in 0.292345 seconds
+  Import took 0.318043 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/SweetSugar/Audio/wav/No_match.wav
+  artifactKey: Guid(b490f266258c54f4b92be29ff1bc86af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Audio/wav/No_match.wav using Guid(b490f266258c54f4b92be29ff1bc86af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5d14650b45a8872abcd285105eb1b78') in 0.068408 seconds
+  Import took 0.103378 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003975 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.168 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(65536) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1915 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.9 MB.
+System memory in use after: 87.0 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2558.
+Total: 2.428800 ms (FindLiveObjects: 0.323900 ms CreateObjectMapping: 0.167800 ms MarkObjects: 1.901400 ms  DeleteObjects: 0.034600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 111.453009 seconds.
+  path: Assets/SweetSugar/Textures_png/Game gui/no_match_text.png
+  artifactKey: Guid(55cfcdfd58d7a475386dea88be7980c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Textures_png/Game gui/no_match_text.png using Guid(55cfcdfd58d7a475386dea88be7980c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50c772cc377c2fb3b9475dcb0e1940e2') in 0.077371 seconds
+  Import took 0.101500 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002975 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.106 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(65536) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.62 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1915 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.0 MB.
+System memory in use after: 87.1 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2563.
+Total: 2.588300 ms (FindLiveObjects: 0.314900 ms CreateObjectMapping: 0.150500 ms MarkObjects: 2.064800 ms  DeleteObjects: 0.057300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 709.526044 seconds.
+  path: Assets/SweetSugar/Textures_png/Boosters/booster_bomb_01.png
+  artifactKey: Guid(83b436029e41c4909ba40e2251803713) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Textures_png/Boosters/booster_bomb_01.png using Guid(83b436029e41c4909ba40e2251803713) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89b920350997bb7ad75a1c3da920c3d5') in 0.109923 seconds
+  Import took 0.148548 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 134.815192 seconds.
+  path: Assets/Assets.index
+  artifactKey: Guid(ef9c51e3a12f7464bb4d8e87dfaf8be0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets.index using Guid(ef9c51e3a12f7464bb4d8e87dfaf8be0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3adfa33029570ef6c20ed82bd9cbcf06') in 0.052736 seconds
+  Import took 0.081253 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003971 seconds.
+  path: Assets/Assets.index
+  artifactKey: Guid(ef9c51e3a12f7464bb4d8e87dfaf8be0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets.index using Guid(ef9c51e3a12f7464bb4d8e87dfaf8be0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3adfa33029570ef6c20ed82bd9cbcf06') in 0.010285 seconds
+  Import took 0.016176 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 53.642503 seconds.
+  path: Assets/SweetSugar/Textures_png/Main Scene/character_loading.png
+  artifactKey: Guid(ce86b9bff1916f745ab1cb2811789285) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Textures_png/Main Scene/character_loading.png using Guid(ce86b9bff1916f745ab1cb2811789285) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fd2ddd71081e15f316f9478b7e45075') in 0.045503 seconds
+  Import took 0.052039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 158.907816 seconds.
+  path: Assets/SweetSugar/Textures_png/Main Scene/1bg_mod.jpg
+  artifactKey: Guid(3c22964a613c0fa409dfb1ba629d41eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Textures_png/Main Scene/1bg_mod.jpg using Guid(3c22964a613c0fa409dfb1ba629d41eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1eee29c5be17c45af24dc99a5ae7a9cd') in 0.029263 seconds
+  Import took 0.034706 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003329 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.046 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(65536) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.67 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1915 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.2 MB.
+System memory in use after: 87.3 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2568.
+Total: 2.670300 ms (FindLiveObjects: 0.302000 ms CreateObjectMapping: 0.193600 ms MarkObjects: 2.136000 ms  DeleteObjects: 0.037800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003004 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.060 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(65536) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.70 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1915 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.3 MB.
+System memory in use after: 87.4 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2570.
+Total: 3.061600 ms (FindLiveObjects: 0.669100 ms CreateObjectMapping: 0.245800 ms MarkObjects: 2.090700 ms  DeleteObjects: 0.055000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 762.293490 seconds.
+  path: Assets/SweetSugar/Textures_png/Main Scene/logotype.png
+  artifactKey: Guid(1323d6a35069e4aec825de6aebda1a89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Textures_png/Main Scene/logotype.png using Guid(1323d6a35069e4aec825de6aebda1a89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2948e2393f719aa1d88391bf34072cb6') in 0.105399 seconds
+  Import took 0.162196 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1021.190516 seconds.
+  path: Assets/SweetSugar/Textures_png/Main Scene/logotype.png
+  artifactKey: Guid(1323d6a35069e4aec825de6aebda1a89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Textures_png/Main Scene/logotype.png using Guid(1323d6a35069e4aec825de6aebda1a89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd90a0fad910eb713546112e522380dbd') in 0.034051 seconds
+  Import took 0.062580 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 181.348910 seconds.
+  path: Assets/SweetSugar/Textures_png/Main Scene/logotype.png
+  artifactKey: Guid(1323d6a35069e4aec825de6aebda1a89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Textures_png/Main Scene/logotype.png using Guid(1323d6a35069e4aec825de6aebda1a89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd760a5a7a913831e075d5f69a5402d3e') in 0.062066 seconds
+  Import took 0.069263 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.913335 seconds.
+  path: Assets/SweetSugar/Textures_png/Main Scene/logotype.png
+  artifactKey: Guid(1323d6a35069e4aec825de6aebda1a89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Textures_png/Main Scene/logotype.png using Guid(1323d6a35069e4aec825de6aebda1a89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5555d0c1bf8e1c897c74846d6e048775') in 0.019674 seconds
+  Import took 0.035650 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002893 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.74 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.171 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(65536) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.68 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1915 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.3 MB.
+System memory in use after: 87.4 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2575.
+Total: 3.341900 ms (FindLiveObjects: 0.332100 ms CreateObjectMapping: 0.243100 ms MarkObjects: 2.734600 ms  DeleteObjects: 0.030200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 114.548944 seconds.
+  path: Assets/SweetSugar/Animation/MainMenu/character_main.controller
+  artifactKey: Guid(c90f70f3bda084d27b2597e6308b545b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SweetSugar/Animation/MainMenu/character_main.controller using Guid(c90f70f3bda084d27b2597e6308b545b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1235d1f6396a8a524f00873f0730346c') in 0.125654 seconds
+  Import took 0.170477 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003132 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.105 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(65536) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.68 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1915 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.4 MB.
+System memory in use after: 87.5 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2577.
+Total: 3.145000 ms (FindLiveObjects: 0.306300 ms CreateObjectMapping: 0.179700 ms MarkObjects: 2.620800 ms  DeleteObjects: 0.036700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004209 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.059 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(65536) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.65 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1915 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.4 MB.
+System memory in use after: 87.6 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2579.
+Total: 2.648500 ms (FindLiveObjects: 0.312800 ms CreateObjectMapping: 0.196500 ms MarkObjects: 2.084900 ms  DeleteObjects: 0.053300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
